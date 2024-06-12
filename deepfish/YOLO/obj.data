@@ -1,0 +1,5 @@
+classes = 1
+train = /content/drive/MyDrive/Deepfish/train.txt
+valid = /content/drive/MyDrive/Deepfish/valid.txt
+names = data/obj.names
+backup = /content/drive/MyDrive/YOLO/backup_d
